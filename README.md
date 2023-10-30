@@ -8,3 +8,8 @@ The bot uses the packages axios , dotevn , express, node-fetch ,node-telegram-bo
 Build webhook to localhost using ngrok - Get started here : https://dashboard.ngrok.com/
 
 
+Bots have functions
+
+- Check token price according to Binance data
+- Convert an amount of tokens to USDT and convert it to VND
+- Check the floor price of an NFT set available on Opensea
